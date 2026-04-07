@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Twitter</title>
+  <rect width="64" height="64" rx="16" fill="#111111"/>
+  <path d="M37.8 18H46l-10.1 11.5L48 46h-9.5l-7.4-9.8L22.6 46H14l10.8-12.3L13 18h9.7l6.7 9z" fill="#fff"/>
+</svg>

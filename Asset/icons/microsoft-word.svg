@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Microsoft Word</title>
+  <rect width="64" height="64" rx="16" fill="#2b7cd3"/>
+  <path d="M18 18h28a4 4 0 0 1 4 4v20a4 4 0 0 1-4 4H18z" fill="#e8f2ff" opacity=".95"/>
+  <path d="M14 22h18v20H14a4 4 0 0 1-4-4V26a4 4 0 0 1 4-4z" fill="#195abd"/>
+  <path d="M18 29h4l2.2 9 2.1-9h3.4l-3.8 14h-3.3z" fill="#fff"/>
+</svg>

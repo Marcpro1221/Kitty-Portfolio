@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>InMoment</title>
+  <rect width="64" height="64" rx="16" fill="#1d3452"/>
+  <circle cx="24" cy="22" r="5" fill="#9fe0ff"/>
+  <path d="M21 30h6v14h-6zM33 20h6v24h-6zM45 26h6v18h-6z" fill="#fff"/>
+</svg>

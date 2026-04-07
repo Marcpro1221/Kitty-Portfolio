@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Microsoft PowerPoint</title>
+  <rect width="64" height="64" rx="16" fill="#ef7f45"/>
+  <path d="M18 18h28a4 4 0 0 1 4 4v20a4 4 0 0 1-4 4H18z" fill="#fff2ea" opacity=".95"/>
+  <path d="M14 22h18v20H14a4 4 0 0 1-4-4V26a4 4 0 0 1 4-4z" fill="#d95f25"/>
+  <path d="M20 29h6.5c3.1 0 5.5 1.7 5.5 4.8 0 3-2.4 4.8-5.5 4.8H24V43h-4zm4 3.3v3.4h2.2c1.2 0 1.9-.6 1.9-1.7s-.7-1.7-1.9-1.7z" fill="#fff"/>
+</svg>
