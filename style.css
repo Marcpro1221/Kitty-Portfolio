@@ -235,6 +235,12 @@
         font-size: 0.82rem;
     }
 
+    .leaf-label-secondary {
+        top: 4.1rem;
+        background: rgba(255, 255, 255, 0.68);
+        color: var(--muted);
+    }
+
     .hero-portrait {
         width: 100%;
         height: 100%;
